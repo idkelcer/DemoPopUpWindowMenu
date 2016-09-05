@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CoodinatorDrawerDemo</string>
+    <string name="lorem_ipsum_long">Elit dolore eiusmod consequat in minim adipisicing nostrud proident duis. Cupidatat ex culpa cupidatat proident duis excepteur laboris et qui incididunt commodo incididunt. Commodo anim non ut velit sint sit elit Lorem. Et proident sint reprehenderit exercitation occaecat et qui aute amet ullamco labore commodo. Veniam aute sint ex Lorem duis esse commodo tempor cillum duis.\r\n</string>
+    <string name="fab_onscroll_behavior">fabscroll</string>
+    <string name="rename">rename</string>
+    <string name="lock">lock</string>
+    <string name="unlock">unlock</string>
+    <string name="delete">delete</string>
+    <string name="set_cover">cover</string>
+    <string name="action_new">action</string>
+    <string name="Popup_button">popup</string>
+    <string name="menu_add">add</string>
+    <string name="menu_sub">sub</string>
+    <string name="menu_mul">mul</string>
+    <string name="menu_div">div</string>
+</resources>
